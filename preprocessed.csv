@@ -1,0 +1,757 @@
+batting_team,Pplay1_runs,pplay twick1,bowling_team,Pplay2_runs,pplay twick2,toss_winner,toss_decision,venue,Pitch Type
+Sunrisers Hyderabad,59,1,Royal Challengers Bangalore,54,1,Royal Challengers Bangalore,0,Rajiv Gandhi International Stadium,2
+Mumbai Indians,61,1,Rising Pune Supergiant,59,1,Rising Pune Supergiant,0,Maharashtra Cricket Association Stadium,0
+Gujarat Lions,52,1,Kolkata Knight Riders,73,0,Kolkata Knight Riders,0,Saurashtra Cricket Association Stadium,2
+Rising Pune Supergiant,35,1,Punjab Kings,56,2,Punjab Kings,0,Holkar Cricket Stadium,2
+Royal Challengers Bangalore,41,2,Delhi Capitals,43,2,Royal Challengers Bangalore,1,M Chinnaswamy Stadium,2
+Gujarat Lions,40,2,Sunrisers Hyderabad,59,1,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Kolkata Knight Riders,59,2,Mumbai Indians,49,0,Mumbai Indians,0,Wankhede Stadium,1
+Royal Challengers Bangalore,23,3,Punjab Kings,62,1,Royal Challengers Bangalore,1,Holkar Cricket Stadium,2
+Delhi Capitals,62,1,Rising Pune Supergiant,50,3,Rising Pune Supergiant,0,Maharashtra Cricket Association Stadium,0
+Sunrisers Hyderabad,34,0,Mumbai Indians,61,2,Mumbai Indians,0,Wankhede Stadium,1
+Punjab Kings,57,1,Kolkata Knight Riders,76,1,Kolkata Knight Riders,0,Eden Gardens,2
+Royal Challengers Bangalore,41,0,Mumbai Indians,21,4,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Rising Pune Supergiant,64,2,Gujarat Lions,61,0,Gujarat Lions,0,Saurashtra Cricket Association Stadium,2
+Kolkata Knight Riders,40,2,Sunrisers Hyderabad,45,0,Sunrisers Hyderabad,0,Eden Gardens,2
+Delhi Capitals,49,0,Punjab Kings,40,3,Delhi Capitals,1,Feroz Shah Kotla,1
+Gujarat Lions,46,1,Mumbai Indians,56,1,Mumbai Indians,0,Wankhede Stadium,1
+Rising Pune Supergiant,55,0,Royal Challengers Bangalore,49,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Delhi Capitals,53,0,Kolkata Knight Riders,51,3,Delhi Capitals,1,Feroz Shah Kotla,1
+Sunrisers Hyderabad,29,1,Punjab Kings,57,2,Punjab Kings,0,Rajiv Gandhi International Stadium,2
+Royal Challengers Bangalore,45,0,Gujarat Lions,56,2,Gujarat Lions,0,Saurashtra Cricket Association Stadium,2
+Sunrisers Hyderabad,39,1,Delhi Capitals,82,1,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Punjab Kings,46,1,Mumbai Indians,72,1,Mumbai Indians,0,Holkar Cricket Stadium,2
+Kolkata Knight Riders,65,1,Gujarat Lions,23,1,Gujarat Lions,0,Eden Gardens,2
+Mumbai Indians,48,2,Delhi Capitals,55,5,Delhi Capitals,0,Wankhede Stadium,1
+Sunrisers Hyderabad,45,0,Rising Pune Supergiant,50,1,Rising Pune Supergiant,0,Maharashtra Cricket Association Stadium,0
+Punjab Kings,50,1,Gujarat Lions,39,2,Gujarat Lions,0,Saurashtra Cricket Association Stadium,2
+Kolkata Knight Riders,65,2,Royal Challengers Bangalore,44,4,Royal Challengers Bangalore,0,Eden Gardens,2
+Rising Pune Supergiant,48,0,Mumbai Indians,45,1,Mumbai Indians,0,Wankhede Stadium,1
+Rising Pune Supergiant,57,0,Kolkata Knight Riders,49,1,Kolkata Knight Riders,0,Maharashtra Cricket Association Stadium,0
+Royal Challengers Bangalore,35,3,Gujarat Lions,47,2,Gujarat Lions,0,M Chinnaswamy Stadium,2
+Delhi Capitals,53,1,Kolkata Knight Riders,59,1,Kolkata Knight Riders,0,Eden Gardens,2
+Sunrisers Hyderabad,60,0,Punjab Kings,39,3,Punjab Kings,0,Punjab Cricket Association IS Bindra Stadium,2
+Rising Pune Supergiant,43,1,Royal Challengers Bangalore,61,2,Royal Challengers Bangalore,0,Maharashtra Cricket Association Stadium,0
+Gujarat Lions,48,3,Mumbai Indians,50,1,Gujarat Lions,1,Saurashtra Cricket Association Stadium,2
+Delhi Capitals,25,3,Punjab Kings,44,0,Punjab Kings,0,Punjab Cricket Association IS Bindra Stadium,2
+Sunrisers Hyderabad,79,0,Kolkata Knight Riders,55,2,Kolkata Knight Riders,0,Rajiv Gandhi International Stadium,2
+Royal Challengers Bangalore,52,2,Mumbai Indians,43,1,Royal Challengers Bangalore,1,Wankhede Stadium,1
+Gujarat Lions,55,1,Rising Pune Supergiant,62,4,Rising Pune Supergiant,0,Maharashtra Cricket Association Stadium,0
+Sunrisers Hyderabad,66,1,Delhi Capitals,74,1,Delhi Capitals,0,Feroz Shah Kotla,1
+Kolkata Knight Riders,41,3,Rising Pune Supergiant,63,2,Rising Pune Supergiant,0,Eden Gardens,2
+Gujarat Lions,58,2,Delhi Capitals,46,1,Delhi Capitals,0,Feroz Shah Kotla,1
+Punjab Kings,35,2,Royal Challengers Bangalore,47,3,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Rising Pune Supergiant,35,1,Sunrisers Hyderabad,35,2,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Mumbai Indians,60,0,Delhi Capitals,35,5,Delhi Capitals,0,Feroz Shah Kotla,1
+Royal Challengers Bangalore,40,3,Kolkata Knight Riders,58,0,Kolkata Knight Riders,0,M Chinnaswamy Stadium,2
+Punjab Kings,44,1,Gujarat Lions,43,0,Gujarat Lions,0,Punjab Cricket Association IS Bindra Stadium,2
+Mumbai Indians,36,2,Sunrisers Hyderabad,61,1,Mumbai Indians,1,Rajiv Gandhi International Stadium,2
+Punjab Kings,41,2,Kolkata Knight Riders,64,1,Kolkata Knight Riders,0,Punjab Cricket Association IS Bindra Stadium,2
+Gujarat Lions,50,2,Delhi Capitals,68,2,Delhi Capitals,0,Green Park,2
+Punjab Kings,71,1,Mumbai Indians,53,0,Mumbai Indians,0,Wankhede Stadium,1
+Delhi Capitals,54,2,Rising Pune Supergiant,47,2,Delhi Capitals,1,Feroz Shah Kotla,1
+Gujarat Lions,61,0,Sunrisers Hyderabad,53,2,Sunrisers Hyderabad,0,Green Park,2
+Mumbai Indians,51,1,Kolkata Knight Riders,43,3,Kolkata Knight Riders,0,Eden Gardens,2
+Punjab Kings,32,5,Rising Pune Supergiant,42,1,Rising Pune Supergiant,0,Maharashtra Cricket Association Stadium,0
+Royal Challengers Bangalore,37,1,Delhi Capitals,42,2,Royal Challengers Bangalore,1,Feroz Shah Kotla,1
+Rising Pune Supergiant,33,2,Mumbai Indians,48,3,Mumbai Indians,0,Wankhede Stadium,1
+Sunrisers Hyderabad,30,1,Kolkata Knight Riders,36,3,Kolkata Knight Riders,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,25,3,Mumbai Indians,38,3,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Mumbai Indians,32,2,Rising Pune Supergiant,38,1,Mumbai Indians,1,Rajiv Gandhi International Stadium,2
+Kolkata Knight Riders,61,1,Royal Challengers Bangalore,26,4,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,53,1,Punjab Kings,63,1,Chennai Super Kings,1,Punjab Cricket Association Stadium,2
+Rajasthan Royals,40,2,Delhi Capitals,55,1,Rajasthan Royals,1,Feroz Shah Kotla,1
+Mumbai Indians,47,3,Royal Challengers Bangalore,40,1,Mumbai Indians,1,Wankhede Stadium,1
+Deccan Chargers,39,2,Kolkata Knight Riders,26,3,Deccan Chargers,1,Eden Gardens,2
+Punjab Kings,54,1,Rajasthan Royals,53,3,Punjab Kings,1,Sawai Mansingh Stadium,2
+Deccan Chargers,25,2,Delhi Capitals,48,1,Deccan Chargers,1,Rajiv Gandhi International Stadium,2
+Chennai Super Kings,53,2,Mumbai Indians,52,2,Mumbai Indians,0,MA Chidambaram Stadium,0
+Deccan Chargers,58,2,Rajasthan Royals,73,1,Rajasthan Royals,0,Rajiv Gandhi International Stadium,2
+Punjab Kings,60,1,Mumbai Indians,39,2,Mumbai Indians,0,Punjab Cricket Association Stadium,2
+Royal Challengers Bangalore,57,2,Rajasthan Royals,45,2,Rajasthan Royals,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,61,3,Chennai Super Kings,45,0,Kolkata Knight Riders,1,MA Chidambaram Stadium,0
+Mumbai Indians,27,3,Deccan Chargers,60,0,Deccan Chargers,0,Dr DY Patil Sports Academy,2
+Delhi Capitals,45,3,Punjab Kings,55,2,Delhi Capitals,1,Punjab Cricket Association Stadium,2
+Chennai Super Kings,36,1,Royal Challengers Bangalore,45,1,Chennai Super Kings,1,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,40,3,Mumbai Indians,38,3,Kolkata Knight Riders,1,Eden Gardens,2
+Delhi Capitals,58,1,Royal Challengers Bangalore,55,3,Royal Challengers Bangalore,0,Feroz Shah Kotla,1
+Deccan Chargers,50,1,Punjab Kings,41,1,Punjab Kings,0,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,45,1,Kolkata Knight Riders,51,3,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Chennai Super Kings,47,1,Delhi Capitals,64,0,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Deccan Chargers,41,0,Royal Challengers Bangalore,43,1,Deccan Chargers,1,Rajiv Gandhi International Stadium,2
+Punjab Kings,49,1,Kolkata Knight Riders,31,4,Punjab Kings,1,Punjab Cricket Association Stadium,2
+Mumbai Indians,50,2,Delhi Capitals,37,2,Delhi Capitals,0,Dr DY Patil Sports Academy,2
+Chennai Super Kings,38,4,Rajasthan Royals,44,0,Chennai Super Kings,1,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,26,3,Punjab Kings,52,1,Punjab Kings,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,34,3,Deccan Chargers,50,1,Deccan Chargers,0,MA Chidambaram Stadium,0
+Rajasthan Royals,48,2,Mumbai Indians,34,0,Mumbai Indians,0,Dr DY Patil Sports Academy,2
+Delhi Capitals,50,2,Chennai Super Kings,62,0,Chennai Super Kings,0,Feroz Shah Kotla,1
+Kolkata Knight Riders,41,2,Royal Challengers Bangalore,35,2,Kolkata Knight Riders,1,Eden Gardens,2
+Deccan Chargers,50,0,Rajasthan Royals,50,0,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,36,2,Mumbai Indians,39,0,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,53,2,Punjab Kings,35,2,Punjab Kings,0,MA Chidambaram Stadium,0
+Kolkata Knight Riders,43,1,Deccan Chargers,55,3,Kolkata Knight Riders,1,Rajiv Gandhi International Stadium,2
+Delhi Capitals,47,1,Rajasthan Royals,21,2,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,50,3,Punjab Kings,42,0,Royal Challengers Bangalore,1,Punjab Cricket Association Stadium,2
+Kolkata Knight Riders,35,1,Delhi Capitals,37,4,Kolkata Knight Riders,1,Eden Gardens,2
+Chennai Super Kings,28,2,Mumbai Indians,78,0,Mumbai Indians,0,Wankhede Stadium,1
+Punjab Kings,51,0,Rajasthan Royals,38,2,Rajasthan Royals,0,Punjab Cricket Association Stadium,2
+Delhi Capitals,48,1,Deccan Chargers,71,1,Deccan Chargers,0,Feroz Shah Kotla,1
+Kolkata Knight Riders,27,3,Mumbai Indians,68,2,Mumbai Indians,0,Wankhede Stadium,1
+Delhi Capitals,68,0,Punjab Kings,73,3,Delhi Capitals,1,Feroz Shah Kotla,1
+Rajasthan Royals,51,0,Royal Challengers Bangalore,23,3,Royal Challengers Bangalore,0,Sawai Mansingh Stadium,2
+Mumbai Indians,57,1,Deccan Chargers,32,3,Deccan Chargers,0,Rajiv Gandhi International Stadium,2
+Kolkata Knight Riders,35,2,Chennai Super Kings,43,0,Kolkata Knight Riders,1,Eden Gardens,2
+Royal Challengers Bangalore,41,1,Delhi Capitals,71,0,Delhi Capitals,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,32,1,Rajasthan Royals,42,3,Rajasthan Royals,0,Eden Gardens,2
+Punjab Kings,43,1,Mumbai Indians,68,1,Mumbai Indians,0,Wankhede Stadium,1
+Royal Challengers Bangalore,23,2,Chennai Super Kings,44,0,Royal Challengers Bangalore,1,MA Chidambaram Stadium,0
+Deccan Chargers,42,0,Punjab Kings,74,0,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Mumbai Indians,60,0,Delhi Capitals,56,2,Delhi Capitals,0,Feroz Shah Kotla,1
+Rajasthan Royals,67,0,Chennai Super Kings,65,1,Rajasthan Royals,1,MA Chidambaram Stadium,0
+Royal Challengers Bangalore,46,1,Deccan Chargers,33,2,Deccan Chargers,0,M Chinnaswamy Stadium,2
+Punjab Kings,47,1,Kolkata Knight Riders,51,2,Punjab Kings,1,Eden Gardens,2
+Mumbai Indians,29,0,Rajasthan Royals,36,2,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Deccan Chargers,26,1,Chennai Super Kings,44,1,Deccan Chargers,1,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,58,0,Delhi Capitals,28,3,Delhi Capitals,0,Wankhede Stadium,1
+Punjab Kings,35,4,Chennai Super Kings,35,1,Punjab Kings,1,Wankhede Stadium,1
+Chennai Super Kings,42,1,Rajasthan Royals,41,1,Rajasthan Royals,0,Dr DY Patil Sports Academy,2
+Mumbai Indians,40,1,Chennai Super Kings,40,2,Chennai Super Kings,0,Newlands,2
+Royal Challengers Bangalore,29,3,Rajasthan Royals,14,2,Royal Challengers Bangalore,1,Newlands,2
+Punjab Kings,67,1,Delhi Capitals,58,0,Delhi Capitals,0,Newlands,2
+Kolkata Knight Riders,21,3,Deccan Chargers,37,4,Kolkata Knight Riders,1,Newlands,2
+Chennai Super Kings,68,0,Royal Challengers Bangalore,46,2,Chennai Super Kings,1,St George's Park,3
+Punjab Kings,46,1,Kolkata Knight Riders,60,1,Kolkata Knight Riders,0,Kingsmead,1
+Deccan Chargers,62,1,Royal Challengers Bangalore,31,2,Deccan Chargers,1,Newlands,2
+Delhi Capitals,59,2,Chennai Super Kings,61,1,Delhi Capitals,1,Kingsmead,1
+Rajasthan Royals,50,2,Kolkata Knight Riders,38,2,Kolkata Knight Riders,0,Newlands,2
+Royal Challengers Bangalore,49,3,Punjab Kings,44,0,Royal Challengers Bangalore,1,Kingsmead,1
+Deccan Chargers,55,0,Mumbai Indians,50,1,Deccan Chargers,1,Kingsmead,1
+Royal Challengers Bangalore,45,2,Delhi Capitals,43,2,Royal Challengers Bangalore,1,St George's Park,3
+Punjab Kings,38,2,Rajasthan Royals,32,4,Punjab Kings,1,Newlands,2
+Chennai Super Kings,62,1,Deccan Chargers,69,1,Deccan Chargers,0,Kingsmead,1
+Mumbai Indians,61,0,Kolkata Knight Riders,47,2,Mumbai Indians,1,St George's Park,3
+Delhi Capitals,42,3,Rajasthan Royals,33,2,Delhi Capitals,1,SuperSport Park,2
+Kolkata Knight Riders,45,2,Royal Challengers Bangalore,46,0,Kolkata Knight Riders,1,Kingsmead,1
+Punjab Kings,26,2,Mumbai Indians,23,3,Punjab Kings,1,Kingsmead,1
+Deccan Chargers,37,1,Delhi Capitals,41,2,Delhi Capitals,0,SuperSport Park,2
+Chennai Super Kings,40,2,Rajasthan Royals,38,2,Rajasthan Royals,0,SuperSport Park,2
+Mumbai Indians,40,2,Kolkata Knight Riders,26,2,Mumbai Indians,1,Buffalo Park,2
+Royal Challengers Bangalore,38,2,Punjab Kings,35,0,Royal Challengers Bangalore,1,Kingsmead,1
+Deccan Chargers,39,2,Rajasthan Royals,30,3,Deccan Chargers,1,St George's Park,3
+Chennai Super Kings,53,2,Delhi Capitals,49,2,Delhi Capitals,0,New Wanderers Stadium,2
+Kolkata Knight Riders,28,1,Punjab Kings,51,2,Kolkata Knight Riders,1,St George's Park,3
+Mumbai Indians,25,3,Royal Challengers Bangalore,51,1,Mumbai Indians,1,New Wanderers Stadium,2
+Chennai Super Kings,53,0,Deccan Chargers,52,3,Chennai Super Kings,1,Buffalo Park,2
+Rajasthan Royals,57,0,Punjab Kings,29,4,Punjab Kings,0,Kingsmead,1
+Kolkata Knight Riders,54,0,Delhi Capitals,57,0,Kolkata Knight Riders,1,Kingsmead,1
+Deccan Chargers,37,2,Mumbai Indians,41,2,Deccan Chargers,1,SuperSport Park,2
+Royal Challengers Bangalore,29,3,Rajasthan Royals,31,1,Rajasthan Royals,0,SuperSport Park,2
+Chennai Super Kings,57,1,Punjab Kings,53,1,Chennai Super Kings,1,SuperSport Park,2
+Mumbai Indians,30,2,Delhi Capitals,36,0,Mumbai Indians,1,Buffalo Park,2
+Deccan Chargers,52,1,Punjab Kings,45,2,Punjab Kings,0,De Beers Diamond Oval,2
+Rajasthan Royals,34,1,Chennai Super Kings,37,2,Rajasthan Royals,1,De Beers Diamond Oval,2
+Mumbai Indians,46,1,Royal Challengers Bangalore,39,2,Mumbai Indians,1,St George's Park,3
+Kolkata Knight Riders,37,3,Delhi Capitals,47,0,Delhi Capitals,0,New Wanderers Stadium,2
+Deccan Chargers,42,2,Rajasthan Royals,30,2,Deccan Chargers,1,De Beers Diamond Oval,2
+Kolkata Knight Riders,38,2,Royal Challengers Bangalore,46,0,Royal Challengers Bangalore,0,SuperSport Park,2
+Punjab Kings,51,3,Mumbai Indians,42,2,Punjab Kings,1,SuperSport Park,2
+Delhi Capitals,56,1,Deccan Chargers,50,2,Deccan Chargers,0,Kingsmead,1
+Chennai Super Kings,52,2,Royal Challengers Bangalore,33,3,Chennai Super Kings,1,Kingsmead,1
+Rajasthan Royals,42,0,Mumbai Indians,26,3,Rajasthan Royals,1,Kingsmead,1
+Delhi Capitals,38,2,Punjab Kings,37,3,Punjab Kings,0,OUTsurance Oval,2
+Mumbai Indians,49,1,Chennai Super Kings,35,2,Mumbai Indians,1,St George's Park,3
+Kolkata Knight Riders,31,1,Deccan Chargers,50,0,Deccan Chargers,0,New Wanderers Stadium,2
+Punjab Kings,39,2,Deccan Chargers,46,2,Deccan Chargers,0,New Wanderers Stadium,2
+Delhi Capitals,35,2,Rajasthan Royals,24,2,Delhi Capitals,1,OUTsurance Oval,2
+Chennai Super Kings,54,0,Kolkata Knight Riders,56,1,Chennai Super Kings,1,SuperSport Park,2
+Delhi Capitals,37,3,Royal Challengers Bangalore,27,1,Delhi Capitals,1,New Wanderers Stadium,2
+Rajasthan Royals,46,4,Kolkata Knight Riders,29,3,Kolkata Knight Riders,0,Kingsmead,1
+Chennai Super Kings,50,1,Punjab Kings,29,1,Chennai Super Kings,1,Kingsmead,1
+Mumbai Indians,30,3,Delhi Capitals,60,1,Delhi Capitals,0,SuperSport Park,2
+Royal Challengers Bangalore,33,1,Deccan Chargers,64,0,Royal Challengers Bangalore,1,SuperSport Park,2
+Delhi Capitals,49,2,Deccan Chargers,84,1,Deccan Chargers,0,SuperSport Park,2
+Chennai Super Kings,52,0,Royal Challengers Bangalore,59,2,Royal Challengers Bangalore,0,New Wanderers Stadium,2
+Deccan Chargers,31,2,Royal Challengers Bangalore,36,1,Royal Challengers Bangalore,0,New Wanderers Stadium,2
+Kolkata Knight Riders,69,4,Deccan Chargers,62,1,Deccan Chargers,0,Dr DY Patil Sports Academy,2
+Mumbai Indians,44,1,Rajasthan Royals,39,2,Mumbai Indians,1,Brabourne Stadium,2
+Punjab Kings,24,3,Delhi Capitals,39,2,Delhi Capitals,0,Punjab Cricket Association Stadium,2
+Royal Challengers Bangalore,57,3,Kolkata Knight Riders,61,0,Kolkata Knight Riders,0,Eden Gardens,2
+Deccan Chargers,47,2,Chennai Super Kings,34,4,Deccan Chargers,1,MA Chidambaram Stadium,0
+Rajasthan Royals,50,3,Delhi Capitals,60,2,Delhi Capitals,0,Sardar Patel Stadium,2
+Punjab Kings,31,0,Royal Challengers Bangalore,61,0,Punjab Kings,1,M Chinnaswamy Stadium,2
+Chennai Super Kings,67,1,Kolkata Knight Riders,45,3,Chennai Super Kings,1,Eden Gardens,2
+Mumbai Indians,31,1,Delhi Capitals,56,1,Delhi Capitals,0,Feroz Shah Kotla,1
+Rajasthan Royals,52,1,Royal Challengers Bangalore,59,0,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Delhi Capitals,56,1,Chennai Super Kings,56,1,Delhi Capitals,1,Feroz Shah Kotla,1
+Deccan Chargers,56,2,Punjab Kings,27,3,Punjab Kings,0,Barabati Stadium,3
+Rajasthan Royals,45,2,Kolkata Knight Riders,38,1,Rajasthan Royals,1,Sardar Patel Stadium,2
+Mumbai Indians,47,2,Royal Challengers Bangalore,55,0,Mumbai Indians,1,Brabourne Stadium,2
+Deccan Chargers,38,2,Delhi Capitals,48,1,Deccan Chargers,1,Barabati Stadium,3
+Punjab Kings,41,2,Chennai Super Kings,42,2,Chennai Super Kings,0,MA Chidambaram Stadium,0
+Kolkata Knight Riders,38,0,Mumbai Indians,57,0,Kolkata Knight Riders,1,Brabourne Stadium,2
+Royal Challengers Bangalore,53,1,Chennai Super Kings,29,1,Chennai Super Kings,0,M Chinnaswamy Stadium,2
+Rajasthan Royals,51,1,Punjab Kings,76,1,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Chennai Super Kings,55,2,Mumbai Indians,63,0,Mumbai Indians,0,Brabourne Stadium,2
+Deccan Chargers,50,2,Rajasthan Royals,54,0,Deccan Chargers,1,Sardar Patel Stadium,2
+Kolkata Knight Riders,64,2,Punjab Kings,42,2,Kolkata Knight Riders,1,Punjab Cricket Association Stadium,2
+Delhi Capitals,58,2,Royal Challengers Bangalore,46,0,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Rajasthan Royals,52,1,Chennai Super Kings,58,1,Rajasthan Royals,1,Sardar Patel Stadium,2
+Mumbai Indians,62,1,Deccan Chargers,50,4,Deccan Chargers,0,Dr DY Patil Sports Academy,2
+Delhi Capitals,48,3,Kolkata Knight Riders,36,3,Delhi Capitals,1,Feroz Shah Kotla,1
+Punjab Kings,52,2,Mumbai Indians,45,1,Mumbai Indians,0,Brabourne Stadium,2
+Royal Challengers Bangalore,52,1,Chennai Super Kings,56,0,Royal Challengers Bangalore,1,MA Chidambaram Stadium,0
+Delhi Capitals,46,3,Rajasthan Royals,39,4,Delhi Capitals,1,Feroz Shah Kotla,1
+Kolkata Knight Riders,41,2,Deccan Chargers,59,1,Kolkata Knight Riders,1,Eden Gardens,2
+Punjab Kings,66,1,Royal Challengers Bangalore,51,1,Punjab Kings,1,Punjab Cricket Association Stadium,2
+Chennai Super Kings,53,1,Rajasthan Royals,62,0,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Mumbai Indians,53,0,Deccan Chargers,40,2,Mumbai Indians,1,Brabourne Stadium,2
+Kolkata Knight Riders,54,0,Punjab Kings,69,1,Kolkata Knight Riders,1,Eden Gardens,2
+Delhi Capitals,48,2,Royal Challengers Bangalore,38,1,Delhi Capitals,1,Feroz Shah Kotla,1
+Rajasthan Royals,42,2,Deccan Chargers,52,2,Rajasthan Royals,1,Vidarbha Cricket Association Stadium,2
+Chennai Super Kings,52,1,Mumbai Indians,46,0,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Punjab Kings,50,1,Rajasthan Royals,70,0,Punjab Kings,1,Sawai Mansingh Stadium,2
+Kolkata Knight Riders,46,1,Delhi Capitals,44,0,Kolkata Knight Riders,1,Eden Gardens,2
+Royal Challengers Bangalore,51,1,Deccan Chargers,32,1,Deccan Chargers,0,M Chinnaswamy Stadium,2
+Mumbai Indians,55,2,Punjab Kings,56,1,Mumbai Indians,1,Punjab Cricket Association Stadium,2
+Chennai Super Kings,61,1,Deccan Chargers,37,2,Chennai Super Kings,1,Vidarbha Cricket Association Stadium,2
+Kolkata Knight Riders,45,1,Royal Challengers Bangalore,48,1,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Delhi Capitals,47,3,Punjab Kings,39,0,Delhi Capitals,1,Feroz Shah Kotla,1
+Mumbai Indians,35,3,Rajasthan Royals,34,3,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Deccan Chargers,44,3,Royal Challengers Bangalore,38,1,Royal Challengers Bangalore,0,Vidarbha Cricket Association Stadium,2
+Mumbai Indians,22,1,Delhi Capitals,69,1,Mumbai Indians,1,Brabourne Stadium,2
+Kolkata Knight Riders,30,4,Chennai Super Kings,67,1,Kolkata Knight Riders,1,MA Chidambaram Stadium,0
+Rajasthan Royals,39,3,Royal Challengers Bangalore,59,2,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Chennai Super Kings,43,3,Delhi Capitals,33,3,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Punjab Kings,34,1,Deccan Chargers,45,1,Deccan Chargers,0,Himachal Pradesh Cricket Association Stadium,2
+Mumbai Indians,46,0,Royal Challengers Bangalore,34,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Rajasthan Royals,49,0,Kolkata Knight Riders,42,2,Rajasthan Royals,1,Eden Gardens,2
+Punjab Kings,38,1,Chennai Super Kings,49,2,Chennai Super Kings,0,Himachal Pradesh Cricket Association Stadium,2
+Deccan Chargers,42,2,Delhi Capitals,39,3,Deccan Chargers,1,Feroz Shah Kotla,1
+Mumbai Indians,54,2,Kolkata Knight Riders,44,0,Mumbai Indians,1,Eden Gardens,2
+Mumbai Indians,39,2,Royal Challengers Bangalore,44,1,Mumbai Indians,1,Dr DY Patil Sports Academy,2
+Chennai Super Kings,27,3,Deccan Chargers,23,2,Chennai Super Kings,1,Dr DY Patil Sports Academy,2
+Deccan Chargers,40,3,Royal Challengers Bangalore,33,0,Deccan Chargers,1,Dr DY Patil Sports Academy,2
+Chennai Super Kings,36,0,Mumbai Indians,33,1,Chennai Super Kings,1,Dr DY Patil Sports Academy,2
+Chennai Super Kings,45,1,Kolkata Knight Riders,52,0,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Deccan Chargers,44,2,Rajasthan Royals,31,1,Rajasthan Royals,0,Rajiv Gandhi International Stadium,2
+Kochi Tuskers Kerala,61,0,Royal Challengers Bangalore,48,2,Kochi Tuskers Kerala,1,Nehru Stadium,2
+Delhi Capitals,38,3,Mumbai Indians,31,1,Delhi Capitals,1,Feroz Shah Kotla,1
+Punjab Kings,36,4,Pune Warriors,44,1,Punjab Kings,1,Dr DY Patil Sports Academy,2
+Kolkata Knight Riders,46,0,Deccan Chargers,30,2,Kolkata Knight Riders,1,Eden Gardens,2
+Delhi Capitals,30,2,Rajasthan Royals,57,1,Delhi Capitals,1,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,24,2,Mumbai Indians,40,1,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,31,1,Punjab Kings,65,1,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Kochi Tuskers Kerala,37,4,Pune Warriors,44,1,Kochi Tuskers Kerala,1,Dr DY Patil Sports Academy,2
+Deccan Chargers,41,1,Royal Challengers Bangalore,28,3,Royal Challengers Bangalore,0,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,31,1,Kolkata Knight Riders,62,1,Kolkata Knight Riders,0,Sawai Mansingh Stadium,2
+Mumbai Indians,44,0,Kochi Tuskers Kerala,50,0,Kochi Tuskers Kerala,0,Wankhede Stadium,1
+Chennai Super Kings,45,0,Royal Challengers Bangalore,33,3,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Deccan Chargers,48,1,Punjab Kings,62,0,Punjab Kings,0,Rajiv Gandhi International Stadium,2
+Pune Warriors,63,1,Delhi Capitals,67,0,Delhi Capitals,0,Dr DY Patil Sports Academy,2
+Rajasthan Royals,36,2,Kolkata Knight Riders,26,1,Kolkata Knight Riders,0,Eden Gardens,2
+Chennai Super Kings,42,1,Kochi Tuskers Kerala,49,1,Kochi Tuskers Kerala,0,Nehru Stadium,2
+Deccan Chargers,43,1,Delhi Capitals,38,3,Deccan Chargers,1,Feroz Shah Kotla,1
+Pune Warriors,33,3,Mumbai Indians,32,1,Pune Warriors,1,Wankhede Stadium,1
+Kochi Tuskers Kerala,45,0,Kolkata Knight Riders,37,3,Kolkata Knight Riders,0,Eden Gardens,2
+Punjab Kings,77,1,Rajasthan Royals,45,2,Rajasthan Royals,0,Punjab Cricket Association Stadium,2
+Mumbai Indians,40,2,Chennai Super Kings,44,2,Chennai Super Kings,0,Wankhede Stadium,1
+Kolkata Knight Riders,50,1,Royal Challengers Bangalore,57,0,Royal Challengers Bangalore,0,Eden Gardens,2
+Delhi Capitals,70,0,Punjab Kings,46,1,Punjab Kings,0,Feroz Shah Kotla,1
+Mumbai Indians,57,1,Deccan Chargers,41,2,Deccan Chargers,0,Rajiv Gandhi International Stadium,2
+Kochi Tuskers Kerala,32,2,Rajasthan Royals,38,0,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Chennai Super Kings,45,0,Pune Warriors,40,4,Pune Warriors,0,MA Chidambaram Stadium,0
+Delhi Capitals,42,1,Royal Challengers Bangalore,65,1,Royal Challengers Bangalore,0,Feroz Shah Kotla,1
+Pune Warriors,37,3,Chennai Super Kings,28,1,Pune Warriors,1,Dr DY Patil Sports Academy,2
+Deccan Chargers,20,3,Kochi Tuskers Kerala,29,6,Kochi Tuskers Kerala,0,Nehru Stadium,2
+Kolkata Knight Riders,42,1,Delhi Capitals,41,1,Delhi Capitals,0,Feroz Shah Kotla,1
+Mumbai Indians,31,2,Rajasthan Royals,18,1,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,57,0,Pune Warriors,42,1,Pune Warriors,0,M Chinnaswamy Stadium,2
+Delhi Capitals,34,2,Kochi Tuskers Kerala,37,3,Delhi Capitals,1,Nehru Stadium,2
+Punjab Kings,40,2,Kolkata Knight Riders,45,2,Kolkata Knight Riders,0,Eden Gardens,2
+Pune Warriors,49,1,Rajasthan Royals,34,1,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Chennai Super Kings,34,1,Deccan Chargers,64,0,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Mumbai Indians,35,1,Punjab Kings,24,1,Punjab Kings,0,Wankhede Stadium,1
+Delhi Capitals,42,2,Kochi Tuskers Kerala,67,1,Kochi Tuskers Kerala,0,Feroz Shah Kotla,1
+Kolkata Knight Riders,41,1,Deccan Chargers,41,2,Deccan Chargers,0,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,47,0,Chennai Super Kings,43,1,Rajasthan Royals,1,MA Chidambaram Stadium,0
+Mumbai Indians,49,1,Pune Warriors,31,2,Pune Warriors,0,Dr DY Patil Sports Academy,2
+Kochi Tuskers Kerala,35,2,Kolkata Knight Riders,43,0,Kolkata Knight Riders,0,Nehru Stadium,2
+Deccan Chargers,43,1,Delhi Capitals,29,3,Delhi Capitals,0,Rajiv Gandhi International Stadium,2
+Royal Challengers Bangalore,48,1,Punjab Kings,38,4,Punjab Kings,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,15,2,Kolkata Knight Riders,33,2,Chennai Super Kings,1,Eden Gardens,2
+Mumbai Indians,50,1,Delhi Capitals,23,4,Delhi Capitals,0,Wankhede Stadium,1
+Kochi Tuskers Kerala,49,1,Royal Challengers Bangalore,79,1,Kochi Tuskers Kerala,1,M Chinnaswamy Stadium,2
+Punjab Kings,34,1,Pune Warriors,40,1,Punjab Kings,1,Punjab Cricket Association Stadium,2
+Chennai Super Kings,55,0,Rajasthan Royals,48,2,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Deccan Chargers,50,0,Pune Warriors,52,0,Deccan Chargers,1,Rajiv Gandhi International Stadium,2
+Punjab Kings,39,1,Mumbai Indians,33,3,Mumbai Indians,0,Punjab Cricket Association Stadium,2
+Rajasthan Royals,43,0,Royal Challengers Bangalore,66,0,Royal Challengers Bangalore,0,Sawai Mansingh Stadium,2
+Chennai Super Kings,42,2,Delhi Capitals,52,1,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Kochi Tuskers Kerala,62,0,Punjab Kings,49,2,Punjab Kings,0,Holkar Cricket Stadium,2
+Kolkata Knight Riders,33,3,Royal Challengers Bangalore,65,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Deccan Chargers,32,1,Mumbai Indians,26,3,Deccan Chargers,1,Wankhede Stadium,1
+Punjab Kings,43,1,Delhi Capitals,42,0,Delhi Capitals,0,Himachal Pradesh Cricket Association Stadium,2
+Rajasthan Royals,32,2,Kochi Tuskers Kerala,87,2,Kochi Tuskers Kerala,0,Holkar Cricket Stadium,2
+Pune Warriors,39,2,Deccan Chargers,57,0,Deccan Chargers,0,Dr DY Patil Sports Academy,2
+Punjab Kings,30,1,Royal Challengers Bangalore,34,3,Punjab Kings,1,Himachal Pradesh Cricket Association Stadium,2
+Chennai Super Kings,41,2,Kochi Tuskers Kerala,40,1,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Pune Warriors,29,2,Kolkata Knight Riders,44,1,Kolkata Knight Riders,0,Dr DY Patil Sports Academy,2
+Mumbai Indians,26,2,Rajasthan Royals,52,0,Mumbai Indians,1,Wankhede Stadium,1
+Deccan Chargers,58,0,Punjab Kings,45,2,Punjab Kings,0,Himachal Pradesh Cricket Association Stadium,2
+Delhi Capitals,33,2,Pune Warriors,44,0,Delhi Capitals,1,Feroz Shah Kotla,1
+Chennai Super Kings,23,4,Royal Challengers Bangalore,54,1,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,46,2,Mumbai Indians,25,1,Mumbai Indians,0,Eden Gardens,2
+Royal Challengers Bangalore,44,1,Chennai Super Kings,62,2,Chennai Super Kings,0,Wankhede Stadium,1
+Kolkata Knight Riders,25,4,Mumbai Indians,52,0,Mumbai Indians,0,Wankhede Stadium,1
+Royal Challengers Bangalore,68,0,Mumbai Indians,47,2,Mumbai Indians,0,MA Chidambaram Stadium,0
+Chennai Super Kings,56,0,Royal Challengers Bangalore,45,2,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Chennai Super Kings,46,2,Mumbai Indians,53,0,Mumbai Indians,0,MA Chidambaram Stadium,0
+Kolkata Knight Riders,30,4,Delhi Capitals,48,0,Delhi Capitals,0,Eden Gardens,2
+Pune Warriors,57,3,Mumbai Indians,27,3,Mumbai Indians,0,Wankhede Stadium,1
+Rajasthan Royals,46,0,Punjab Kings,45,2,Punjab Kings,0,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,44,2,Delhi Capitals,46,1,Delhi Capitals,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,37,2,Deccan Chargers,45,1,Deccan Chargers,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Rajasthan Royals,38,1,Kolkata Knight Riders,27,4,Kolkata Knight Riders,0,Sawai Mansingh Stadium,2
+Pune Warriors,45,2,Punjab Kings,19,2,Pune Warriors,1,Subrata Roy Sahara Stadium,2
+Deccan Chargers,60,1,Mumbai Indians,29,2,Deccan Chargers,1,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Kolkata Knight Riders,41,0,Royal Challengers Bangalore,20,3,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,54,1,Delhi Capitals,50,2,Delhi Capitals,0,Feroz Shah Kotla,1
+Mumbai Indians,56,1,Rajasthan Royals,44,2,Rajasthan Royals,0,Wankhede Stadium,1
+Royal Challengers Bangalore,29,1,Chennai Super Kings,52,0,Royal Challengers Bangalore,1,MA Chidambaram Stadium,0
+Pune Warriors,45,3,Punjab Kings,38,1,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Rajasthan Royals,50,0,Kolkata Knight Riders,36,1,Rajasthan Royals,1,Eden Gardens,2
+Deccan Chargers,43,1,Delhi Capitals,34,3,Deccan Chargers,1,Feroz Shah Kotla,1
+Chennai Super Kings,26,0,Pune Warriors,56,1,Chennai Super Kings,1,Subrata Roy Sahara Stadium,2
+Punjab Kings,43,2,Kolkata Knight Riders,48,2,Kolkata Knight Riders,0,Eden Gardens,2
+Rajasthan Royals,23,0,Royal Challengers Bangalore,54,2,Rajasthan Royals,1,M Chinnaswamy Stadium,2
+Mumbai Indians,57,2,Delhi Capitals,41,1,Delhi Capitals,0,Wankhede Stadium,1
+Deccan Chargers,58,0,Rajasthan Royals,62,1,Deccan Chargers,1,Sawai Mansingh Stadium,2
+Pune Warriors,45,0,Royal Challengers Bangalore,42,2,Pune Warriors,1,M Chinnaswamy Stadium,2
+Punjab Kings,33,1,Kolkata Knight Riders,53,1,Punjab Kings,1,Punjab Cricket Association Stadium,2
+Deccan Chargers,42,2,Delhi Capitals,64,1,Deccan Chargers,1,Rajiv Gandhi International Stadium,2
+Chennai Super Kings,41,0,Pune Warriors,53,2,Pune Warriors,0,MA Chidambaram Stadium,0
+Punjab Kings,41,2,Royal Challengers Bangalore,36,3,Royal Challengers Bangalore,0,Punjab Cricket Association Stadium,2
+Rajasthan Royals,52,1,Chennai Super Kings,45,0,Rajasthan Royals,1,MA Chidambaram Stadium,0
+Pune Warriors,39,1,Delhi Capitals,49,1,Delhi Capitals,0,Feroz Shah Kotla,1
+Mumbai Indians,39,0,Punjab Kings,48,0,Mumbai Indians,1,Wankhede Stadium,1
+Deccan Chargers,37,1,Kolkata Knight Riders,42,1,Kolkata Knight Riders,0,Barabati Stadium,3
+Royal Challengers Bangalore,28,1,Rajasthan Royals,48,0,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Pune Warriors,44,2,Delhi Capitals,61,1,Pune Warriors,1,Subrata Roy Sahara Stadium,2
+Punjab Kings,50,1,Mumbai Indians,40,0,Punjab Kings,1,Punjab Cricket Association Stadium,2
+Deccan Chargers,54,2,Pune Warriors,44,2,Deccan Chargers,1,Subrata Roy Sahara Stadium,2
+Delhi Capitals,43,0,Mumbai Indians,49,3,Mumbai Indians,0,Feroz Shah Kotla,1
+Punjab Kings,46,0,Chennai Super Kings,48,1,Punjab Kings,1,MA Chidambaram Stadium,0
+Kolkata Knight Riders,42,0,Royal Challengers Bangalore,35,3,Kolkata Knight Riders,1,Eden Gardens,2
+Delhi Capitals,38,2,Rajasthan Royals,40,0,Delhi Capitals,1,Feroz Shah Kotla,1
+Deccan Chargers,43,0,Mumbai Indians,31,2,Mumbai Indians,0,Wankhede Stadium,1
+Chennai Super Kings,33,1,Kolkata Knight Riders,37,1,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Deccan Chargers,56,2,Pune Warriors,48,1,Deccan Chargers,1,Barabati Stadium,3
+Rajasthan Royals,33,0,Delhi Capitals,61,1,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,42,0,Punjab Kings,53,1,Punjab Kings,0,M Chinnaswamy Stadium,2
+Mumbai Indians,56,0,Pune Warriors,37,1,Mumbai Indians,1,Subrata Roy Sahara Stadium,2
+Chennai Super Kings,68,1,Deccan Chargers,47,1,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Kolkata Knight Riders,64,0,Pune Warriors,45,2,Kolkata Knight Riders,1,Eden Gardens,2
+Rajasthan Royals,52,0,Punjab Kings,33,2,Rajasthan Royals,1,Punjab Cricket Association Stadium,2
+Chennai Super Kings,46,1,Mumbai Indians,46,1,Mumbai Indians,0,Wankhede Stadium,1
+Deccan Chargers,50,0,Royal Challengers Bangalore,46,0,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Delhi Capitals,35,2,Kolkata Knight Riders,60,0,Delhi Capitals,1,Feroz Shah Kotla,1
+Pune Warriors,51,1,Rajasthan Royals,49,2,Pune Warriors,1,Subrata Roy Sahara Stadium,2
+Punjab Kings,25,0,Deccan Chargers,40,1,Deccan Chargers,0,Rajiv Gandhi International Stadium,2
+Mumbai Indians,28,2,Royal Challengers Bangalore,35,0,Royal Challengers Bangalore,0,Wankhede Stadium,1
+Rajasthan Royals,66,2,Chennai Super Kings,36,2,Chennai Super Kings,0,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,49,0,Pune Warriors,50,3,Pune Warriors,0,Subrata Roy Sahara Stadium,2
+Mumbai Indians,27,1,Kolkata Knight Riders,32,2,Mumbai Indians,1,Eden Gardens,2
+Delhi Capitals,45,4,Chennai Super Kings,45,0,Chennai Super Kings,0,MA Chidambaram Stadium,0
+Rajasthan Royals,47,1,Pune Warriors,33,4,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Deccan Chargers,40,1,Punjab Kings,44,2,Deccan Chargers,1,Punjab Cricket Association Stadium,2
+Royal Challengers Bangalore,50,2,Mumbai Indians,32,3,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,47,0,Chennai Super Kings,51,0,Chennai Super Kings,0,Eden Gardens,2
+Punjab Kings,32,2,Delhi Capitals,37,4,Punjab Kings,1,Feroz Shah Kotla,1
+Kolkata Knight Riders,25,2,Mumbai Indians,26,1,Mumbai Indians,0,Wankhede Stadium,1
+Chennai Super Kings,42,2,Punjab Kings,43,0,Punjab Kings,0,Himachal Pradesh Cricket Association Stadium,2
+Royal Challengers Bangalore,41,1,Delhi Capitals,51,2,Delhi Capitals,0,Feroz Shah Kotla,1
+Rajasthan Royals,20,1,Deccan Chargers,58,0,Rajasthan Royals,1,Rajiv Gandhi International Stadium,2
+Punjab Kings,27,4,Delhi Capitals,44,0,Delhi Capitals,0,Himachal Pradesh Cricket Association Stadium,2
+Kolkata Knight Riders,23,1,Pune Warriors,40,1,Kolkata Knight Riders,1,Subrata Roy Sahara Stadium,2
+Deccan Chargers,31,2,Royal Challengers Bangalore,40,2,Royal Challengers Bangalore,0,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,48,2,Mumbai Indians,44,0,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Kolkata Knight Riders,30,1,Delhi Capitals,49,2,Kolkata Knight Riders,1,Subrata Roy Sahara Stadium,2
+Chennai Super Kings,52,2,Mumbai Indians,54,1,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,54,0,Delhi Capitals,46,2,Delhi Capitals,0,MA Chidambaram Stadium,0
+Chennai Super Kings,58,0,Kolkata Knight Riders,56,1,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Delhi Capitals,45,2,Kolkata Knight Riders,46,1,Kolkata Knight Riders,0,Eden Gardens,2
+Royal Challengers Bangalore,31,2,Mumbai Indians,38,0,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,38,1,Pune Warriors,27,0,Pune Warriors,0,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,45,1,Delhi Capitals,39,1,Rajasthan Royals,1,Feroz Shah Kotla,1
+Mumbai Indians,41,2,Chennai Super Kings,36,2,Mumbai Indians,1,MA Chidambaram Stadium,0
+Pune Warriors,24,2,Punjab Kings,56,1,Pune Warriors,1,Subrata Roy Sahara Stadium,2
+Royal Challengers Bangalore,40,2,Sunrisers Hyderabad,37,2,Royal Challengers Bangalore,1,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,35,1,Kolkata Knight Riders,40,2,Kolkata Knight Riders,0,Sawai Mansingh Stadium,2
+Mumbai Indians,38,2,Delhi Capitals,46,2,Mumbai Indians,1,Wankhede Stadium,1
+Punjab Kings,43,2,Chennai Super Kings,38,0,Chennai Super Kings,0,Punjab Cricket Association Stadium,2
+Kolkata Knight Riders,44,1,Royal Challengers Bangalore,43,1,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Rajasthan Royals,44,1,Pune Warriors,64,1,Rajasthan Royals,1,Subrata Roy Sahara Stadium,2
+Delhi Capitals,29,3,Sunrisers Hyderabad,38,1,Delhi Capitals,1,Feroz Shah Kotla,1
+Mumbai Indians,48,0,Pune Warriors,40,4,Mumbai Indians,1,Wankhede Stadium,1
+Royal Challengers Bangalore,33,1,Chennai Super Kings,31,2,Chennai Super Kings,0,MA Chidambaram Stadium,0
+Kolkata Knight Riders,48,0,Sunrisers Hyderabad,39,0,Kolkata Knight Riders,1,Eden Gardens,2
+Punjab Kings,34,3,Rajasthan Royals,48,1,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Pune Warriors,48,0,Chennai Super Kings,38,2,Pune Warriors,1,MA Chidambaram Stadium,0
+Punjab Kings,35,1,Kolkata Knight Riders,45,2,Kolkata Knight Riders,0,Punjab Cricket Association Stadium,2
+Delhi Capitals,43,1,Royal Challengers Bangalore,48,3,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,25,4,Pune Warriors,41,2,Pune Warriors,0,Subrata Roy Sahara Stadium,2
+Rajasthan Royals,58,0,Mumbai Indians,26,2,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Chennai Super Kings,39,0,Delhi Capitals,32,4,Chennai Super Kings,1,Feroz Shah Kotla,1
+Punjab Kings,36,1,Sunrisers Hyderabad,33,1,Punjab Kings,1,Rajiv Gandhi International Stadium,2
+Kolkata Knight Riders,47,1,Chennai Super Kings,27,1,Kolkata Knight Riders,1,Eden Gardens,2
+Rajasthan Royals,31,2,Royal Challengers Bangalore,48,0,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Mumbai Indians,24,2,Delhi Capitals,60,0,Mumbai Indians,1,Feroz Shah Kotla,1
+Pune Warriors,48,0,Punjab Kings,55,2,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Rajasthan Royals,55,0,Chennai Super Kings,58,1,Rajasthan Royals,1,MA Chidambaram Stadium,0
+Royal Challengers Bangalore,62,0,Pune Warriors,43,4,Pune Warriors,0,M Chinnaswamy Stadium,2
+Punjab Kings,53,0,Delhi Capitals,21,3,Delhi Capitals,0,Himachal Pradesh Cricket Association Stadium,2
+Kolkata Knight Riders,61,1,Mumbai Indians,42,1,Kolkata Knight Riders,1,Eden Gardens,2
+Sunrisers Hyderabad,40,3,Chennai Super Kings,58,0,Sunrisers Hyderabad,1,MA Chidambaram Stadium,0
+Punjab Kings,45,0,Kolkata Knight Riders,45,2,Punjab Kings,1,Eden Gardens,2
+Sunrisers Hyderabad,29,5,Rajasthan Royals,30,1,Sunrisers Hyderabad,1,Sawai Mansingh Stadium,2
+Mumbai Indians,52,1,Royal Challengers Bangalore,35,1,Mumbai Indians,1,Wankhede Stadium,1
+Chennai Super Kings,67,0,Kolkata Knight Riders,63,2,Kolkata Knight Riders,0,MA Chidambaram Stadium,0
+Delhi Capitals,37,1,Pune Warriors,43,0,Pune Warriors,0,Shaheed Veer Narayan Singh International Stadium,1
+Royal Challengers Bangalore,55,1,Rajasthan Royals,45,1,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Mumbai Indians,36,1,Punjab Kings,55,2,Mumbai Indians,1,Wankhede Stadium,1
+Chennai Super Kings,29,2,Pune Warriors,46,4,Chennai Super Kings,1,Subrata Roy Sahara Stadium,2
+Mumbai Indians,41,2,Sunrisers Hyderabad,36,1,Mumbai Indians,1,Rajiv Gandhi International Stadium,2
+Kolkata Knight Riders,37,3,Delhi Capitals,34,2,Kolkata Knight Riders,1,Shaheed Veer Narayan Singh International Stadium,1
+Chennai Super Kings,36,1,Punjab Kings,36,2,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Royal Challengers Bangalore,30,0,Pune Warriors,39,1,Royal Challengers Bangalore,1,Subrata Roy Sahara Stadium,2
+Rajasthan Royals,34,2,Kolkata Knight Riders,48,1,Rajasthan Royals,1,Eden Gardens,2
+Delhi Capitals,26,1,Sunrisers Hyderabad,41,2,Delhi Capitals,1,Rajiv Gandhi International Stadium,2
+Royal Challengers Bangalore,31,1,Punjab Kings,46,1,Punjab Kings,0,M Chinnaswamy Stadium,2
+Mumbai Indians,32,0,Chennai Super Kings,32,4,Mumbai Indians,1,Wankhede Stadium,1
+Pune Warriors,61,0,Rajasthan Royals,53,0,Pune Warriors,1,Sawai Mansingh Stadium,2
+Sunrisers Hyderabad,40,1,Royal Challengers Bangalore,47,1,Sunrisers Hyderabad,1,M Chinnaswamy Stadium,2
+Delhi Capitals,42,2,Rajasthan Royals,49,0,Delhi Capitals,1,Sawai Mansingh Stadium,2
+Mumbai Indians,41,0,Kolkata Knight Riders,38,1,Mumbai Indians,1,Wankhede Stadium,1
+Chennai Super Kings,50,1,Sunrisers Hyderabad,49,2,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Punjab Kings,37,1,Rajasthan Royals,38,1,Rajasthan Royals,0,Punjab Cricket Association Stadium,2
+Kolkata Knight Riders,50,1,Pune Warriors,34,2,Kolkata Knight Riders,1,Subrata Roy Sahara Stadium,2
+Royal Challengers Bangalore,40,2,Delhi Capitals,49,2,Delhi Capitals,0,Feroz Shah Kotla,1
+Pune Warriors,36,2,Mumbai Indians,37,2,Pune Warriors,1,Subrata Roy Sahara Stadium,2
+Sunrisers Hyderabad,37,2,Punjab Kings,41,1,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Royal Challengers Bangalore,22,1,Kolkata Knight Riders,31,2,Kolkata Knight Riders,0,JSCA International Stadium Complex,3
+Chennai Super Kings,37,0,Rajasthan Royals,24,3,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Delhi Capitals,40,2,Punjab Kings,56,3,Punjab Kings,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,52,1,Mumbai Indians,39,1,Sunrisers Hyderabad,1,Wankhede Stadium,1
+Pune Warriors,42,0,Kolkata Knight Riders,33,3,Kolkata Knight Riders,0,JSCA International Stadium Complex,3
+Chennai Super Kings,47,0,Delhi Capitals,49,2,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Mumbai Indians,49,1,Rajasthan Royals,29,4,Rajasthan Royals,0,Wankhede Stadium,1
+Royal Challengers Bangalore,58,0,Punjab Kings,41,2,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Sunrisers Hyderabad,21,3,Rajasthan Royals,33,0,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Punjab Kings,35,2,Mumbai Indians,51,2,Mumbai Indians,0,Himachal Pradesh Cricket Association Stadium,2
+Pune Warriors,40,1,Delhi Capitals,47,2,Pune Warriors,1,Subrata Roy Sahara Stadium,2
+Royal Challengers Bangalore,76,1,Chennai Super Kings,56,3,Chennai Super Kings,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,33,1,Sunrisers Hyderabad,45,0,Kolkata Knight Riders,1,Rajiv Gandhi International Stadium,2
+Chennai Super Kings,47,0,Mumbai Indians,56,1,Chennai Super Kings,1,Feroz Shah Kotla,1
+Sunrisers Hyderabad,27,2,Rajasthan Royals,44,1,Sunrisers Hyderabad,1,Feroz Shah Kotla,1
+Rajasthan Royals,42,0,Mumbai Indians,45,0,Rajasthan Royals,1,Eden Gardens,2
+Mumbai Indians,34,3,Chennai Super Kings,35,4,Mumbai Indians,1,Eden Gardens,2
+Kolkata Knight Riders,31,1,Mumbai Indians,32,1,Kolkata Knight Riders,1,Sheikh Zayed Stadium,2
+Delhi Capitals,30,3,Royal Challengers Bangalore,50,1,Royal Challengers Bangalore,0,Sharjah Cricket Stadium,2
+Chennai Super Kings,70,0,Punjab Kings,64,3,Chennai Super Kings,1,Sheikh Zayed Stadium,2
+Sunrisers Hyderabad,41,1,Rajasthan Royals,30,2,Rajasthan Royals,0,Sheikh Zayed Stadium,2
+Mumbai Indians,49,1,Royal Challengers Bangalore,30,3,Royal Challengers Bangalore,0,Dubai International Cricket Stadium,2
+Kolkata Knight Riders,31,2,Delhi Capitals,49,2,Kolkata Knight Riders,1,Dubai International Cricket Stadium,2
+Rajasthan Royals,54,1,Punjab Kings,39,3,Punjab Kings,0,Sharjah Cricket Stadium,2
+Chennai Super Kings,34,1,Delhi Capitals,24,3,Chennai Super Kings,1,Sheikh Zayed Stadium,2
+Punjab Kings,43,0,Sunrisers Hyderabad,45,3,Sunrisers Hyderabad,0,Sharjah Cricket Stadium,2
+Chennai Super Kings,51,1,Rajasthan Royals,38,2,Rajasthan Royals,0,Dubai International Cricket Stadium,2
+Kolkata Knight Riders,42,2,Royal Challengers Bangalore,49,0,Royal Challengers Bangalore,0,Sharjah Cricket Stadium,2
+Sunrisers Hyderabad,55,0,Delhi Capitals,44,0,Sunrisers Hyderabad,1,Dubai International Cricket Stadium,2
+Mumbai Indians,31,2,Chennai Super Kings,51,0,Mumbai Indians,1,Dubai International Cricket Stadium,2
+Royal Challengers Bangalore,22,5,Rajasthan Royals,36,2,Rajasthan Royals,0,Sheikh Zayed Stadium,2
+Punjab Kings,51,2,Kolkata Knight Riders,24,3,Kolkata Knight Riders,0,Sheikh Zayed Stadium,2
+Mumbai Indians,37,2,Delhi Capitals,31,0,Mumbai Indians,1,Sharjah Cricket Stadium,2
+Sunrisers Hyderabad,37,2,Chennai Super Kings,47,0,Sunrisers Hyderabad,1,Sharjah Cricket Stadium,2
+Royal Challengers Bangalore,44,4,Punjab Kings,33,2,Punjab Kings,0,Dubai International Cricket Stadium,2
+Rajasthan Royals,45,2,Kolkata Knight Riders,33,2,Rajasthan Royals,1,Sheikh Zayed Stadium,2
+Sunrisers Hyderabad,44,2,Mumbai Indians,32,3,Mumbai Indians,0,Dubai International Cricket Stadium,2
+Chennai Super Kings,43,1,Kolkata Knight Riders,39,4,Chennai Super Kings,1,JSCA International Stadium Complex,3
+Punjab Kings,36,2,Mumbai Indians,49,2,Punjab Kings,1,Wankhede Stadium,1
+Delhi Capitals,46,1,Rajasthan Royals,38,1,Rajasthan Royals,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,47,2,Royal Challengers Bangalore,36,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Rajasthan Royals,50,0,Kolkata Knight Riders,50,0,Kolkata Knight Riders,0,Sardar Patel Stadium,2
+Delhi Capitals,46,2,Chennai Super Kings,49,0,Chennai Super Kings,0,Feroz Shah Kotla,1
+Mumbai Indians,50,1,Royal Challengers Bangalore,64,1,Royal Challengers Bangalore,0,Wankhede Stadium,1
+Delhi Capitals,29,2,Kolkata Knight Riders,52,0,Delhi Capitals,1,Feroz Shah Kotla,1
+Punjab Kings,38,2,Chennai Super Kings,46,1,Chennai Super Kings,0,Barabati Stadium,3
+Sunrisers Hyderabad,50,1,Rajasthan Royals,37,3,Rajasthan Royals,0,Sardar Patel Stadium,2
+Punjab Kings,64,1,Royal Challengers Bangalore,34,3,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Delhi Capitals,52,1,Sunrisers Hyderabad,44,3,Sunrisers Hyderabad,0,Feroz Shah Kotla,1
+Mumbai Indians,42,1,Chennai Super Kings,38,1,Chennai Super Kings,0,Wankhede Stadium,1
+Punjab Kings,49,2,Kolkata Knight Riders,55,0,Kolkata Knight Riders,0,Barabati Stadium,3
+Royal Challengers Bangalore,31,1,Rajasthan Royals,45,0,Royal Challengers Bangalore,1,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,43,1,Mumbai Indians,38,1,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,42,0,Chennai Super Kings,48,2,Rajasthan Royals,1,JSCA International Stadium Complex,3
+Royal Challengers Bangalore,34,1,Delhi Capitals,46,2,Delhi Capitals,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,55,0,Punjab Kings,86,1,Punjab Kings,0,Rajiv Gandhi International Stadium,2
+Mumbai Indians,37,2,Kolkata Knight Riders,45,0,Kolkata Knight Riders,0,Barabati Stadium,3
+Rajasthan Royals,52,1,Delhi Capitals,34,2,Delhi Capitals,0,Sardar Patel Stadium,2
+Chennai Super Kings,39,2,Royal Challengers Bangalore,17,1,Chennai Super Kings,1,JSCA International Stadium Complex,3
+Sunrisers Hyderabad,41,2,Kolkata Knight Riders,30,1,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Mumbai Indians,42,0,Rajasthan Royals,47,3,Mumbai Indians,1,Sardar Patel Stadium,2
+Delhi Capitals,55,1,Punjab Kings,66,0,Punjab Kings,0,Feroz Shah Kotla,1
+Royal Challengers Bangalore,25,2,Sunrisers Hyderabad,51,0,Royal Challengers Bangalore,1,Rajiv Gandhi International Stadium,2
+Chennai Super Kings,35,1,Kolkata Knight Riders,52,0,Kolkata Knight Riders,0,Eden Gardens,2
+Punjab Kings,48,1,Mumbai Indians,62,0,Mumbai Indians,0,Punjab Cricket Association Stadium,2
+Kolkata Knight Riders,45,2,Royal Challengers Bangalore,36,1,Royal Challengers Bangalore,0,Eden Gardens,2
+Chennai Super Kings,60,1,Sunrisers Hyderabad,64,0,Sunrisers Hyderabad,0,JSCA International Stadium Complex,3
+Mumbai Indians,65,0,Delhi Capitals,47,1,Delhi Capitals,0,Wankhede Stadium,1
+Punjab Kings,53,1,Rajasthan Royals,44,1,Rajasthan Royals,0,Punjab Cricket Association Stadium,2
+Royal Challengers Bangalore,34,3,Chennai Super Kings,64,1,Chennai Super Kings,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,49,1,Kolkata Knight Riders,49,1,Kolkata Knight Riders,0,Eden Gardens,2
+Delhi Capitals,44,3,Punjab Kings,48,2,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Rajasthan Royals,35,1,Mumbai Indians,71,3,Mumbai Indians,0,Wankhede Stadium,1
+Kolkata Knight Riders,55,1,Punjab Kings,46,2,Punjab Kings,0,Eden Gardens,2
+Mumbai Indians,53,0,Chennai Super Kings,60,0,Chennai Super Kings,0,Brabourne Stadium,2
+Punjab Kings,70,0,Chennai Super Kings,100,2,Chennai Super Kings,0,Wankhede Stadium,1
+Punjab Kings,32,2,Kolkata Knight Riders,59,1,Kolkata Knight Riders,0,M Chinnaswamy Stadium,2
+Mumbai Indians,37,3,Kolkata Knight Riders,38,1,Kolkata Knight Riders,0,Eden Gardens,2
+Chennai Super Kings,59,2,Delhi Capitals,40,3,Delhi Capitals,0,MA Chidambaram Stadium,0
+Rajasthan Royals,35,3,Punjab Kings,51,3,Punjab Kings,0,Maharashtra Cricket Association Stadium,0
+Chennai Super Kings,49,0,Sunrisers Hyderabad,46,2,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Kolkata Knight Riders,53,0,Royal Challengers Bangalore,41,1,Royal Challengers Bangalore,0,Eden Gardens,2
+Delhi Capitals,51,1,Rajasthan Royals,42,1,Rajasthan Royals,0,Feroz Shah Kotla,1
+Punjab Kings,57,0,Mumbai Indians,17,3,Mumbai Indians,0,Wankhede Stadium,1
+Royal Challengers Bangalore,47,1,Sunrisers Hyderabad,65,0,Sunrisers Hyderabad,0,M Chinnaswamy Stadium,2
+Mumbai Indians,31,2,Rajasthan Royals,42,1,Mumbai Indians,1,Sardar Patel Stadium,2
+Chennai Super Kings,69,4,Kolkata Knight Riders,38,1,Kolkata Knight Riders,0,Eden Gardens,2
+Punjab Kings,41,1,Delhi Capitals,47,1,Punjab Kings,1,Maharashtra Cricket Association Stadium,0
+Sunrisers Hyderabad,35,3,Rajasthan Royals,36,0,Rajasthan Royals,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Mumbai Indians,31,3,Chennai Super Kings,90,0,Mumbai Indians,1,Wankhede Stadium,1
+Delhi Capitals,40,1,Sunrisers Hyderabad,50,0,Delhi Capitals,1,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Punjab Kings,48,3,Kolkata Knight Riders,53,2,Kolkata Knight Riders,0,Maharashtra Cricket Association Stadium,0
+Chennai Super Kings,39,2,Rajasthan Royals,47,0,Chennai Super Kings,1,Sardar Patel Stadium,2
+Mumbai Indians,48,1,Royal Challengers Bangalore,33,1,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Delhi Capitals,34,2,Kolkata Knight Riders,48,2,Kolkata Knight Riders,0,Feroz Shah Kotla,1
+Rajasthan Royals,43,3,Punjab Kings,40,3,Punjab Kings,0,Sardar Patel Stadium,2
+Sunrisers Hyderabad,43,0,Kolkata Knight Riders,49,2,Kolkata Knight Riders,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Chennai Super Kings,45,1,Royal Challengers Bangalore,38,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Delhi Capitals,45,1,Mumbai Indians,48,2,Mumbai Indians,0,Feroz Shah Kotla,1
+Rajasthan Royals,48,2,Royal Challengers Bangalore,49,1,Royal Challengers Bangalore,0,Sardar Patel Stadium,2
+Mumbai Indians,46,0,Sunrisers Hyderabad,52,2,Mumbai Indians,1,Wankhede Stadium,1
+Chennai Super Kings,54,1,Punjab Kings,39,2,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Delhi Capitals,38,2,Royal Challengers Bangalore,50,0,Royal Challengers Bangalore,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,56,2,Punjab Kings,36,2,Punjab Kings,0,Punjab Cricket Association Stadium,2
+Kolkata Knight Riders,50,1,Delhi Capitals,36,0,Kolkata Knight Riders,1,Eden Gardens,2
+Royal Challengers Bangalore,52,2,Rajasthan Royals,54,0,Rajasthan Royals,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,53,1,Kolkata Knight Riders,41,2,Kolkata Knight Riders,0,MA Chidambaram Stadium,0
+Punjab Kings,27,4,Delhi Capitals,55,0,Delhi Capitals,0,Feroz Shah Kotla,1
+Mumbai Indians,47,1,Rajasthan Royals,62,1,Rajasthan Royals,0,Wankhede Stadium,1
+Kolkata Knight Riders,61,1,Royal Challengers Bangalore,54,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,76,0,Chennai Super Kings,45,2,Chennai Super Kings,0,Rajiv Gandhi International Stadium,2
+Mumbai Indians,51,0,Punjab Kings,55,2,Mumbai Indians,1,Punjab Cricket Association Stadium,2
+Rajasthan Royals,43,0,Delhi Capitals,42,2,Delhi Capitals,0,Brabourne Stadium,2
+Chennai Super Kings,37,2,Royal Challengers Bangalore,33,3,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Kolkata Knight Riders,55,0,Sunrisers Hyderabad,41,3,Sunrisers Hyderabad,0,Eden Gardens,2
+Delhi Capitals,44,2,Mumbai Indians,34,4,Delhi Capitals,1,Wankhede Stadium,1
+Royal Challengers Bangalore,68,0,Punjab Kings,36,5,Punjab Kings,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,56,1,Rajasthan Royals,61,2,Rajasthan Royals,0,Brabourne Stadium,2
+Chennai Super Kings,44,1,Mumbai Indians,57,0,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Punjab Kings,45,1,Kolkata Knight Riders,49,1,Punjab Kings,1,Eden Gardens,2
+Sunrisers Hyderabad,41,2,Delhi Capitals,45,1,Sunrisers Hyderabad,1,Shaheed Veer Narayan Singh International Stadium,1
+Royal Challengers Bangalore,39,1,Mumbai Indians,40,1,Royal Challengers Bangalore,1,Wankhede Stadium,1
+Chennai Super Kings,36,2,Rajasthan Royals,47,1,Chennai Super Kings,1,MA Chidambaram Stadium,0
+Sunrisers Hyderabad,56,0,Punjab Kings,28,1,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Chennai Super Kings,16,1,Delhi Capitals,61,2,Chennai Super Kings,1,Shaheed Veer Narayan Singh International Stadium,1
+Punjab Kings,72,3,Royal Challengers Bangalore,50,2,Royal Challengers Bangalore,0,Punjab Cricket Association Stadium,2
+Mumbai Indians,46,2,Kolkata Knight Riders,83,2,Kolkata Knight Riders,0,Wankhede Stadium,1
+Sunrisers Hyderabad,68,1,Royal Challengers Bangalore,47,4,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Punjab Kings,41,2,Chennai Super Kings,53,2,Punjab Kings,1,Punjab Cricket Association Stadium,2
+Rajasthan Royals,66,0,Kolkata Knight Riders,2,2,Rajasthan Royals,1,Brabourne Stadium,2
+Delhi Capitals,54,0,Royal Challengers Bangalore,38,0,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,29,3,Mumbai Indians,54,0,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Mumbai Indians,48,0,Chennai Super Kings,40,2,Mumbai Indians,1,Wankhede Stadium,1
+Royal Challengers Bangalore,41,1,Rajasthan Royals,34,2,Royal Challengers Bangalore,1,Maharashtra Cricket Association Stadium,0
+Royal Challengers Bangalore,29,2,Chennai Super Kings,31,1,Chennai Super Kings,0,JSCA International Stadium Complex,3
+Mumbai Indians,61,1,Chennai Super Kings,31,1,Chennai Super Kings,0,Eden Gardens,2
+Mumbai Indians,37,4,Rising Pune Supergiant,57,0,Mumbai Indians,1,Wankhede Stadium,1
+Delhi Capitals,35,4,Kolkata Knight Riders,47,0,Kolkata Knight Riders,0,Eden Gardens,2
+Punjab Kings,52,0,Gujarat Lions,57,2,Gujarat Lions,0,Punjab Cricket Association IS Bindra Stadium,2
+Royal Challengers Bangalore,49,1,Sunrisers Hyderabad,56,1,Sunrisers Hyderabad,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,40,1,Mumbai Indians,53,1,Mumbai Indians,0,Eden Gardens,2
+Rising Pune Supergiant,57,1,Gujarat Lions,62,0,Rising Pune Supergiant,1,Saurashtra Cricket Association Stadium,2
+Punjab Kings,37,1,Delhi Capitals,28,1,Delhi Capitals,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,36,3,Kolkata Knight Riders,36,0,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Mumbai Indians,31,2,Gujarat Lions,42,1,Gujarat Lions,0,Wankhede Stadium,1
+Rising Pune Supergiant,49,1,Punjab Kings,50,0,Rising Pune Supergiant,1,Punjab Cricket Association IS Bindra Stadium,2
+Royal Challengers Bangalore,63,1,Delhi Capitals,51,2,Delhi Capitals,0,M Chinnaswamy Stadium,2
+Mumbai Indians,40,2,Sunrisers Hyderabad,33,1,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Punjab Kings,41,1,Kolkata Knight Riders,65,0,Kolkata Knight Riders,0,Punjab Cricket Association IS Bindra Stadium,2
+Royal Challengers Bangalore,49,1,Mumbai Indians,51,1,Mumbai Indians,0,Wankhede Stadium,1
+Gujarat Lions,50,1,Sunrisers Hyderabad,63,0,Sunrisers Hyderabad,0,Saurashtra Cricket Association Stadium,2
+Royal Challengers Bangalore,48,1,Rising Pune Supergiant,36,3,Rising Pune Supergiant,0,Maharashtra Cricket Association Stadium,0
+Delhi Capitals,41,1,Mumbai Indians,52,1,Mumbai Indians,0,Feroz Shah Kotla,1
+Punjab Kings,35,2,Sunrisers Hyderabad,65,0,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Royal Challengers Bangalore,50,1,Gujarat Lions,72,1,Royal Challengers Bangalore,1,Saurashtra Cricket Association Stadium,2
+Rising Pune Supergiant,31,1,Kolkata Knight Riders,59,2,Kolkata Knight Riders,0,Maharashtra Cricket Association Stadium,0
+Mumbai Indians,39,1,Punjab Kings,40,2,Punjab Kings,0,Punjab Cricket Association IS Bindra Stadium,2
+Sunrisers Hyderabad,27,3,Rising Pune Supergiant,46,1,Rising Pune Supergiant,0,Rajiv Gandhi International Stadium,2
+Gujarat Lions,71,0,Delhi Capitals,22,3,Delhi Capitals,0,Feroz Shah Kotla,1
+Kolkata Knight Riders,59,0,Mumbai Indians,64,1,Mumbai Indians,0,Wankhede Stadium,1
+Rising Pune Supergiant,48,1,Gujarat Lions,72,0,Gujarat Lions,0,Maharashtra Cricket Association Stadium,0
+Delhi Capitals,37,3,Kolkata Knight Riders,43,2,Kolkata Knight Riders,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,49,1,Royal Challengers Bangalore,45,1,Royal Challengers Bangalore,0,Rajiv Gandhi International Stadium,2
+Punjab Kings,59,0,Gujarat Lions,36,2,Gujarat Lions,0,Saurashtra Cricket Association Stadium,2
+Rising Pune Supergiant,54,1,Mumbai Indians,47,1,Mumbai Indians,0,Maharashtra Cricket Association Stadium,0
+Royal Challengers Bangalore,40,0,Kolkata Knight Riders,37,2,Kolkata Knight Riders,0,M Chinnaswamy Stadium,2
+Gujarat Lions,35,3,Delhi Capitals,61,0,Delhi Capitals,0,Saurashtra Cricket Association Stadium,2
+Kolkata Knight Riders,40,0,Punjab Kings,37,3,Punjab Kings,0,Eden Gardens,2
+Delhi Capitals,48,2,Rising Pune Supergiant,50,0,Rising Pune Supergiant,0,Feroz Shah Kotla,1
+Gujarat Lions,26,3,Sunrisers Hyderabad,38,2,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Rising Pune Supergiant,60,1,Royal Challengers Bangalore,46,0,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Punjab Kings,45,1,Delhi Capitals,51,0,Delhi Capitals,0,Punjab Cricket Association IS Bindra Stadium,2
+Sunrisers Hyderabad,51,0,Mumbai Indians,32,5,Mumbai Indians,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Kolkata Knight Riders,28,4,Gujarat Lions,46,1,Gujarat Lions,0,Eden Gardens,2
+Royal Challengers Bangalore,56,0,Punjab Kings,50,1,Punjab Kings,0,Punjab Cricket Association IS Bindra Stadium,2
+Sunrisers Hyderabad,34,1,Rising Pune Supergiant,25,2,Sunrisers Hyderabad,1,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Royal Challengers Bangalore,25,2,Mumbai Indians,39,1,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,51,0,Delhi Capitals,50,1,Delhi Capitals,0,Rajiv Gandhi International Stadium,2
+Mumbai Indians,21,2,Punjab Kings,32,1,Mumbai Indians,1,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Royal Challengers Bangalore,42,1,Gujarat Lions,41,2,Gujarat Lions,0,M Chinnaswamy Stadium,2
+Rising Pune Supergiant,37,2,Kolkata Knight Riders,66,2,Rising Pune Supergiant,1,Eden Gardens,2
+Punjab Kings,47,1,Sunrisers Hyderabad,55,0,Punjab Kings,1,Punjab Cricket Association IS Bindra Stadium,2
+Mumbai Indians,45,0,Delhi Capitals,49,2,Delhi Capitals,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Kolkata Knight Riders,51,1,Royal Challengers Bangalore,63,0,Royal Challengers Bangalore,0,Eden Gardens,2
+Delhi Capitals,28,2,Rising Pune Supergiant,44,1,Rising Pune Supergiant,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Royal Challengers Bangalore,63,0,Punjab Kings,59,4,Punjab Kings,0,M Chinnaswamy Stadium,2
+Kolkata Knight Riders,44,2,Gujarat Lions,55,3,Gujarat Lions,0,Green Park,2
+Sunrisers Hyderabad,46,1,Delhi Capitals,37,1,Delhi Capitals,0,Shaheed Veer Narayan Singh International Stadium,1
+Punjab Kings,52,0,Rising Pune Supergiant,44,1,Punjab Kings,1,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0
+Mumbai Indians,49,3,Gujarat Lions,70,1,Gujarat Lions,0,Green Park,2
+Kolkata Knight Riders,48,2,Sunrisers Hyderabad,48,1,Sunrisers Hyderabad,0,Eden Gardens,2
+Delhi Capitals,43,2,Royal Challengers Bangalore,49,2,Royal Challengers Bangalore,0,Shaheed Veer Narayan Singh International Stadium,1
+Gujarat Lions,23,3,Royal Challengers Bangalore,31,5,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,43,1,Kolkata Knight Riders,46,1,Kolkata Knight Riders,0,Feroz Shah Kotla,1
+Gujarat Lions,38,2,Sunrisers Hyderabad,46,2,Sunrisers Hyderabad,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,59,0,Royal Challengers Bangalore,59,0,Sunrisers Hyderabad,1,M Chinnaswamy Stadium,2
+Mumbai Indians,40,2,Chennai Super Kings,42,2,Chennai Super Kings,0,Wankhede Stadium,1
+Delhi Capitals,48,1,Punjab Kings,73,2,Punjab Kings,0,Punjab Cricket Association IS Bindra Stadium,2
+Royal Challengers Bangalore,57,1,Kolkata Knight Riders,71,2,Kolkata Knight Riders,0,Eden Gardens,2
+Rajasthan Royals,51,1,Sunrisers Hyderabad,60,1,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Kolkata Knight Riders,65,2,Chennai Super Kings,75,1,Chennai Super Kings,0,MA Chidambaram Stadium,0
+Rajasthan Royals,51,2,Delhi Capitals,63,4,Delhi Capitals,0,Sawai Mansingh Stadium,2
+Mumbai Indians,59,3,Sunrisers Hyderabad,57,0,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Punjab Kings,51,3,Royal Challengers Bangalore,42,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Mumbai Indians,90,0,Delhi Capitals,53,2,Delhi Capitals,0,Wankhede Stadium,1
+Kolkata Knight Riders,49,1,Sunrisers Hyderabad,50,2,Sunrisers Hyderabad,0,Eden Gardens,2
+Rajasthan Royals,56,1,Royal Challengers Bangalore,65,1,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Punjab Kings,76,0,Chennai Super Kings,58,2,Chennai Super Kings,0,Punjab Cricket Association IS Bindra Stadium,2
+Kolkata Knight Riders,50,1,Delhi Capitals,62,2,Delhi Capitals,0,Eden Gardens,2
+Mumbai Indians,71,2,Royal Challengers Bangalore,57,2,Royal Challengers Bangalore,0,Wankhede Stadium,1
+Rajasthan Royals,49,0,Kolkata Knight Riders,53,1,Kolkata Knight Riders,0,Sawai Mansingh Stadium,2
+Punjab Kings,53,0,Sunrisers Hyderabad,42,3,Punjab Kings,1,Punjab Cricket Association IS Bindra Stadium,2
+Chennai Super Kings,70,1,Rajasthan Royals,37,3,Rajasthan Royals,0,Maharashtra Cricket Association Stadium,0
+Kolkata Knight Riders,53,1,Punjab Kings,74,0,Punjab Kings,0,Eden Gardens,2
+Delhi Capitals,31,2,Royal Challengers Bangalore,44,2,Royal Challengers Bangalore,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,28,1,Sunrisers Hyderabad,41,3,Sunrisers Hyderabad,0,Rajiv Gandhi International Stadium,2
+Mumbai Indians,44,0,Rajasthan Royals,44,2,Mumbai Indians,1,Sawai Mansingh Stadium,2
+Punjab Kings,52,2,Delhi Capitals,52,3,Delhi Capitals,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,61,4,Mumbai Indians,23,3,Mumbai Indians,0,Wankhede Stadium,1
+Royal Challengers Bangalore,52,1,Chennai Super Kings,56,3,Chennai Super Kings,0,M Chinnaswamy Stadium,2
+Sunrisers Hyderabad,39,3,Punjab Kings,44,0,Punjab Kings,0,Rajiv Gandhi International Stadium,2
+Delhi Capitals,57,0,Kolkata Knight Riders,51,4,Kolkata Knight Riders,0,Feroz Shah Kotla,1
+Chennai Super Kings,52,1,Mumbai Indians,52,0,Mumbai Indians,0,Maharashtra Cricket Association Stadium,0
+Sunrisers Hyderabad,39,1,Rajasthan Royals,43,1,Sunrisers Hyderabad,1,Sawai Mansingh Stadium,2
+Royal Challengers Bangalore,43,0,Kolkata Knight Riders,53,0,Kolkata Knight Riders,0,M Chinnaswamy Stadium,2
+Chennai Super Kings,57,0,Delhi Capitals,60,2,Delhi Capitals,0,Maharashtra Cricket Association Stadium,0
+Royal Challengers Bangalore,44,1,Mumbai Indians,46,3,Mumbai Indians,0,M Chinnaswamy Stadium,2
+Delhi Capitals,62,1,Rajasthan Royals,81,0,Rajasthan Royals,0,Feroz Shah Kotla,1
+Chennai Super Kings,57,1,Kolkata Knight Riders,58,2,Kolkata Knight Riders,0,Eden Gardens,2
+Punjab Kings,51,0,Mumbai Indians,40,1,Mumbai Indians,0,Holkar Cricket Stadium,2
+Royal Challengers Bangalore,50,1,Chennai Super Kings,43,1,Chennai Super Kings,0,Maharashtra Cricket Association Stadium,0
+Delhi Capitals,61,1,Sunrisers Hyderabad,64,0,Delhi Capitals,1,Rajiv Gandhi International Stadium,2
+Mumbai Indians,56,0,Kolkata Knight Riders,52,2,Kolkata Knight Riders,0,Wankhede Stadium,1
+Rajasthan Royals,51,2,Punjab Kings,36,2,Punjab Kings,0,Holkar Cricket Stadium,2
+Sunrisers Hyderabad,41,2,Royal Challengers Bangalore,56,1,Royal Challengers Bangalore,0,Rajiv Gandhi International Stadium,2
+Rajasthan Royals,64,1,Punjab Kings,33,2,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Mumbai Indians,47,1,Kolkata Knight Riders,47,2,Kolkata Knight Riders,0,Eden Gardens,2
+Delhi Capitals,39,2,Sunrisers Hyderabad,52,1,Delhi Capitals,1,Feroz Shah Kotla,1
+Chennai Super Kings,59,1,Rajasthan Royals,58,2,Chennai Super Kings,1,Sawai Mansingh Stadium,2
+Kolkata Knight Riders,59,1,Punjab Kings,59,2,Punjab Kings,0,Holkar Cricket Stadium,2
+Delhi Capitals,47,2,Royal Challengers Bangalore,63,2,Royal Challengers Bangalore,0,Feroz Shah Kotla,1
+Sunrisers Hyderabad,32,1,Chennai Super Kings,53,0,Chennai Super Kings,0,Maharashtra Cricket Association Stadium,0
+Mumbai Indians,54,0,Rajasthan Royals,59,1,Rajasthan Royals,0,Wankhede Stadium,1
+Punjab Kings,48,3,Royal Challengers Bangalore,68,0,Royal Challengers Bangalore,0,Holkar Cricket Stadium,2
+Rajasthan Royals,69,1,Kolkata Knight Riders,52,2,Kolkata Knight Riders,0,Eden Gardens,2
+Mumbai Indians,63,3,Punjab Kings,58,1,Punjab Kings,0,Wankhede Stadium,1
+Royal Challengers Bangalore,44,2,Sunrisers Hyderabad,56,1,Sunrisers Hyderabad,0,M Chinnaswamy Stadium,2
+Delhi Capitals,43,1,Chennai Super Kings,45,0,Chennai Super Kings,0,Feroz Shah Kotla,1
+Rajasthan Royals,50,1,Royal Challengers Bangalore,56,1,Rajasthan Royals,1,Sawai Mansingh Stadium,2
+Sunrisers Hyderabad,68,0,Kolkata Knight Riders,70,1,Sunrisers Hyderabad,1,Rajiv Gandhi International Stadium,2
+Delhi Capitals,49,2,Mumbai Indians,59,1,Delhi Capitals,1,Feroz Shah Kotla,1
+Punjab Kings,32,3,Chennai Super Kings,35,3,Chennai Super Kings,0,Maharashtra Cricket Association Stadium,0
+Sunrisers Hyderabad,47,3,Chennai Super Kings,34,3,Chennai Super Kings,0,Wankhede Stadium,1
+Kolkata Knight Riders,53,3,Rajasthan Royals,52,1,Rajasthan Royals,0,Eden Gardens,2
+Sunrisers Hyderabad,47,0,Kolkata Knight Riders,69,1,Kolkata Knight Riders,0,Eden Gardens,2
+Sunrisers Hyderabad,45,1,Chennai Super Kings,37,1,Chennai Super Kings,0,Wankhede Stadium,1
+Royal Challengers Bangalore,35,2,Chennai Super Kings,17,1,Chennai Super Kings,0,M. A. Chidambaram Stadium,0
+Sunrisers Hyderabad,58,0,Kolkata Knight Riders,47,1,Kolkata Knight Riders,0,Eden Gardens,2
+Delhi Capitals,47,2,Mumbai Indians,48,3,Mumbai Indians,0,Wankhede Stadium,1
+Punjab Kings,35,1,Rajasthan Royals,64,0,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Delhi Capitals,45,1,Chennai Super Kings,62,1,Delhi Capitals,1,Feroz Shah Kotla Ground,1
+Kolkata Knight Riders,54,2,Punjab Kings,53,2,Punjab Kings,0,Eden Gardens,2
+Mumbai Indians,52,0,Royal Challengers Bangalore,60,1,Royal Challengers Bangalore,0,M. Chinnaswamy Stadium,2
+Rajasthan Royals,36,1,Sunrisers Hyderabad,74,0,Rajasthan Royals,1,Rajiv Gandhi Intl. Cricket Stadium,2
+Mumbai Indians,66,1,Punjab Kings,38,0,Punjab Kings,0,IS Bindra Stadium,2
+Kolkata Knight Riders,37,2,Delhi Capitals,46,1,Delhi Capitals,0,Feroz Shah Kotla Ground,1
+Sunrisers Hyderabad,59,0,Royal Challengers Bangalore,34,3,Royal Challengers Bangalore,0,Rajiv Gandhi Intl. Cricket Stadium,2
+Chennai Super Kings,29,3,Rajasthan Royals,48,3,Rajasthan Royals,0,M. A. Chidambaram Stadium,0
+Punjab Kings,54,2,Delhi Capitals,54,1,Delhi Capitals,0,IS Bindra Stadium,2
+Royal Challengers Bangalore,51,0,Rajasthan Royals,61,0,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Mumbai Indians,42,1,Chennai Super Kings,36,3,Chennai Super Kings,0,Wankhede Stadium,1
+Delhi Capitals,37,2,Sunrisers Hyderabad,71,0,Sunrisers Hyderabad,0,Feroz Shah Kotla Ground,1
+Royal Challengers Bangalore,53,0,Kolkata Knight Riders,66,1,Kolkata Knight Riders,0,M. Chinnaswamy Stadium,2
+Chennai Super Kings,55,0,Punjab Kings,47,2,Chennai Super Kings,1,M. A. Chidambaram Stadium,0
+Mumbai Indians,30,2,Sunrisers Hyderabad,41,2,Sunrisers Hyderabad,0,Rajiv Gandhi Intl. Cricket Stadium,2
+Royal Challengers Bangalore,43,2,Delhi Capitals,60,1,Delhi Capitals,0,M. Chinnaswamy Stadium,2
+Rajasthan Royals,28,1,Kolkata Knight Riders,67,0,Kolkata Knight Riders,0,Sawai Mansingh Stadium,2
+Sunrisers Hyderabad,35,1,Punjab Kings,38,1,Punjab Kings,0,IS Bindra Stadium,2
+Kolkata Knight Riders,33,4,Chennai Super Kings,42,2,Chennai Super Kings,0,M. A. Chidambaram Stadium,0
+Punjab Kings,50,0,Mumbai Indians,50,1,Mumbai Indians,0,Wankhede Stadium,1
+Rajasthan Royals,60,3,Chennai Super Kings,24,4,Chennai Super Kings,0,Sawai Mansingh Stadium,2
+Kolkata Knight Riders,42,1,Delhi Capitals,57,2,Delhi Capitals,0,Eden Gardens,2
+Mumbai Indians,57,0,Rajasthan Royals,60,0,Rajasthan Royals,0,Wankhede Stadium,1
+Punjab Kings,60,0,Royal Challengers Bangalore,63,1,Royal Challengers Bangalore,0,IS Bindra Stadium,2
+Kolkata Knight Riders,53,1,Chennai Super Kings,44,2,Chennai Super Kings,0,Eden Gardens,2
+Delhi Capitals,53,2,Sunrisers Hyderabad,41,0,Sunrisers Hyderabad,0,Rajiv Gandhi Intl. Cricket Stadium,2
+Royal Challengers Bangalore,50,1,Mumbai Indians,69,0,Mumbai Indians,0,Wankhede Stadium,1
+Punjab Kings,43,1,Rajasthan Royals,62,1,Rajasthan Royals,0,IS Bindra Stadium,2
+Chennai Super Kings,44,0,Sunrisers Hyderabad,69,1,Chennai Super Kings,1,Rajiv Gandhi Intl. Cricket Stadium,2
+Mumbai Indians,59,0,Delhi Capitals,48,0,Mumbai Indians,1,Feroz Shah Kotla Ground,1
+Royal Challengers Bangalore,44,1,Kolkata Knight Riders,41,3,Kolkata Knight Riders,0,Eden Gardens,2
+Mumbai Indians,52,1,Rajasthan Royals,65,1,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Punjab Kings,50,2,Delhi Capitals,60,1,Delhi Capitals,0,Feroz Shah Kotla Ground,1
+Kolkata Knight Riders,62,2,Sunrisers Hyderabad,76,0,Sunrisers Hyderabad,0,Rajiv Gandhi Intl. Cricket Stadium,2
+Royal Challengers Bangalore,50,1,Chennai Super Kings,38,4,Chennai Super Kings,0,M. Chinnaswamy Stadium,2
+Rajasthan Royals,52,1,Delhi Capitals,59,0,Delhi Capitals,0,Sawai Mansingh Stadium,2
+Sunrisers Hyderabad,56,1,Chennai Super Kings,49,1,Chennai Super Kings,0,M. A. Chidambaram Stadium,0
+Royal Challengers Bangalore,75,1,Punjab Kings,71,1,Punjab Kings,0,M. Chinnaswamy Stadium,2
+Kolkata Knight Riders,37,1,Rajasthan Royals,55,1,Rajasthan Royals,0,Eden Gardens,2
+Mumbai Indians,46,1,Chennai Super Kings,40,3,Chennai Super Kings,0,M. A. Chidambaram Stadium,0
+Sunrisers Hyderabad,53,1,Rajasthan Royals,61,0,Rajasthan Royals,0,Sawai Mansingh Stadium,2
+Delhi Capitals,61,1,Royal Challengers Bangalore,66,1,Delhi Capitals,1,Feroz Shah Kotla Ground,1
+Kolkata Knight Riders,50,0,Mumbai Indians,42,2,Mumbai Indians,0,Eden Gardens,2
+Sunrisers Hyderabad,89,0,Punjab Kings,47,1,Punjab Kings,0,Rajiv Gandhi Intl. Cricket Stadium,2
+Royal Challengers Bangalore,65,7,Rajasthan Royals,42,1,Rajasthan Royals,0,M. Chinnaswamy Stadium,2
+Chennai Super Kings,28,1,Delhi Capitals,59,2,Delhi Capitals,0,M. A. Chidambaram Stadium,0
+Mumbai Indians,45,1,Sunrisers Hyderabad,60,2,Mumbai Indians,1,Wankhede Stadium,1
+Punjab Kings,41,2,Kolkata Knight Riders,63,1,Kolkata Knight Riders,0,IS Bindra Stadium,2
+Rajasthan Royals,31,4,Delhi Capitals,50,2,Rajasthan Royals,1,Feroz Shah Kotla Ground,1
+Sunrisers Hyderabad,53,1,Royal Challengers Bangalore,53,3,Royal Challengers Bangalore,0,M. Chinnaswamy Stadium,2
+Chennai Super Kings,44,1,Punjab Kings,75,0,Punjab Kings,0,IS Bindra Stadium,2
+Kolkata Knight Riders,51,0,Mumbai Indians,48,0,Mumbai Indians,0,Wankhede Stadium,1
+Chennai Super Kings,33,3,Mumbai Indians,47,2,Chennai Super Kings,1,M. A. Chidambaram Stadium,0
+Sunrisers Hyderabad,54,1,Delhi Capitals,56,0,Delhi Capitals,0,ACA-VDCA Stadium,0
+Delhi Capitals,42,2,Chennai Super Kings,42,0,Chennai Super Kings,0,ACA-VDCA Stadium,0
+Mumbai Indians,46,2,Chennai Super Kings,54,1,Mumbai Indians,1,Rajiv Gandhi Intl. Cricket Stadium,2
