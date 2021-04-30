@@ -20,11 +20,6 @@ X = data.drop(['Pplay1_runs', 'pplay twick1',
        'Pitch Type'], axis=1)
 y = data['Pplay1_runs']
 
-from sklearn.preprocessing import MinMaxScaler
-scaler = MinMaxScaler()
-X = scaler.fit_transform(X)
-X = pd.DataFrame(X)
-
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.25, random_state=1)
 
 linear_regression = LinearRegression()
